@@ -1,6 +1,6 @@
 # Purpose of the project
 
-In this project we will use the TCPDF library to write data in an input field inside a PDF file.
+In this project we will use the TCPDF library to firstly create a PDF file with a simple form and then write data in an input field inside the PDF file.
 
 # How to
 
@@ -8,6 +8,6 @@ In this project we will use the TCPDF library to write data in an input field in
 
 https://github.com/tecnickcom/TCPDF/archive/6.3.5.zip
 
-2. Use the included PDF file (test.pdf) to fill the input field.
+2. Run the included PHP file 'create_pdf_form.php' to produce a simple form and output the 'test.pdf' file.
 
-3. Run the included PHP script fill_pdf_form.php
+3. Run the included PHP script fill_pdf_form.php to parse
