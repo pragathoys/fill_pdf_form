@@ -4,10 +4,8 @@ In this project we will use the TCPDF library to firstly create a PDF file with 
 
 # How to
 
-1. Download the TCPDF library v6.3.5: 
+1. Download the latest stable release TCPDF library eg v6.3.5: 
 
 https://github.com/tecnickcom/TCPDF/archive/6.3.5.zip
 
 2. Run the included PHP file 'create_pdf_form.php' to produce a simple form and output the 'test.pdf' file.
-
-3. Run the included PHP script fill_pdf_form.php to parse
